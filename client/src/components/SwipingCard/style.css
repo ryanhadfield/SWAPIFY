@@ -1,0 +1,18 @@
+.cardImage {
+    max-width: 800px;
+    max-height: 800px;
+    width: auto;
+    height: auto;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+    border-radius: 10px !important;
+}
+.swipCard {
+    max-width: 800px !important;
+    width: auto !important;
+    height: auto !important;
+    border-radius: 10px !important;
+}

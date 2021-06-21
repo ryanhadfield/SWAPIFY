@@ -1,0 +1,62 @@
+
+
+.swapItemImage {
+    height: 120px;
+    width: 120px;
+    padding: 5px
+}
+
+button.waves-effect.waves-green.btn-flat.modal-close{
+    color: white;
+    background-color: #f25d27!important;
+    font-family: lemon!important;
+    border-radius: 10px!important;
+}
+
+#modalBtn {
+    background-color: #f25d27!important;
+    font-family: lemon!important;
+    border-radius: 10px!important;
+}
+
+.welcomeBackground {
+    background-color: radial-gradient(white, #d3eee3, #d3eee3);
+    background-image: url("/img/waves.png"), radial-gradient(white, #d3eee3, #d3eee3);
+    background-size: cover;
+    background-position: center;
+    /* min-height: 500px; */
+    height: 100%
+}
+
+.profileBackground {
+    background-color: radial-gradient(white, #d3eee3, #d3eee3);
+    background-image: url("/img/waves.png"), radial-gradient(white, #d3eee3, #d3eee3);
+    background-size: cover;
+    background-position: center;
+    height: 100%
+}
+
+.chatBackground {
+    /* background-color: radial-gradient(white, #d3eee3, #d3eee3); */
+    background-image: url("/img/waves.png"), radial-gradient(white, #d3eee3, #d3eee3);
+    background-size: cover;
+    background-position: center;
+
+    height: 100%;
+    background-attachment: fixed;
+    }
+
+.createItemBackground {
+    background-color: radial-gradient(white, #d3eee3, #d3eee3);
+    background-image: url("/img/waves.png"), radial-gradient(white, #d3eee3, #d3eee3);
+    background-size: cover;
+    background-position: center;
+}
+
+.swipingBackground {
+    background-color: radial-gradient(white, #d3eee3, #d3eee3);
+    background-image: url("/img/waves.png"), radial-gradient(white, #d3eee3, #d3eee3);
+    background-size: cover;
+    background-position: center;
+    height: 100%
+}

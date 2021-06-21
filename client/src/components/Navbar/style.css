@@ -1,0 +1,36 @@
+.navbar {
+    background: #025159;
+    height: 75px;
+    }
+
+.navIcon {
+    color: #D4EEE3;
+}
+
+#mobile-nav{
+    background: #D4EEE3;
+    color:#D4EEE3
+}
+
+.addItem{
+    color: #F28705;
+}
+
+.profile{
+    color: #F25D27;
+}
+
+.swapIconWrapper{
+    color: #F20505;
+}
+
+.chatBadge {
+    position: relative;
+    top:20px
+}
+
+.swapIcon {
+    position: relative;
+    top: -20px
+}
+

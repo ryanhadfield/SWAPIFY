@@ -1,0 +1,37 @@
+.chatControls {
+    position: fixed;
+    bottom: 0;
+    width: 90%;
+    max-width: 650px;
+    margin: 0 auto;
+    
+}
+
+.wrapper {
+    max-width: 700px;
+    height: 100% !important;
+}
+
+.chatForm {
+    margin-left: -10px !important;
+    color: white;
+}
+
+.sendButton {
+    background-color:#F25D27 !important;
+    margin-left: -15px !important;
+}
+
+.swapItemsButton {
+    background-color: #F25D27 !important;
+    margin-left: -20px !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    font-family: lemon;
+}
+
+.deleteMatchButton {
+    background-color: #F25D27 !important;
+    margin-left: -20px;
+    font-family: lemon;
+}

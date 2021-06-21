@@ -1,0 +1,67 @@
+.userItemPicture {
+    top: 20px !important;
+    left: 5px !important
+}
+
+.itemPicture {
+    position: relative !important;
+    left: -110px !important;
+    top: -1px !important
+}
+
+.swapSymbol {
+    position: relative !important;
+    left: -85px !important;
+    height: 40px;
+}
+
+.matchItem {
+    height: 100px;
+}
+
+.chatButton {
+    background-color: #F25D27 !important;
+    position: relative !important;
+    left: 30px;
+}
+
+.ratingStar {
+    position: relative !important;
+    left: -90px !important;
+    top: -30px !important;
+    font-size: 40px !important;
+
+}
+    
+.ratingNumber {
+    font-size: 20px !important;
+    position: relative !important;
+    left: -98px !important;
+    top: -67px !important;
+    z-index: 5;
+}
+
+.noHover{
+    pointer-events: none;
+}
+
+.infoButton {
+    position: relative !important;
+    left: -40px !important;
+}
+
+.modalUserImage {
+    height: 200px !important;
+    width: 200px !important;
+    min-height: 50px !important;
+}
+
+.swapItemIcon {
+    height: 100px;
+    width: 100px;
+}
+
+.closeModalButton {
+    background-color: #f25d27 !important;
+    font-family: lemon;
+}

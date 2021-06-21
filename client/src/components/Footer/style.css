@@ -1,0 +1,14 @@
+.stickyFooter {
+  display: flex !important;
+  min-height: 3vh !important;
+  /* color:#F25D27!important; */
+  /* background: #025159!important; */
+}
+
+Footer {
+  align-self: flex-end !important;
+  flex: 1 0 auto !important;
+  background: #025159 !important;
+  color: #f25d27 !important;
+}
+

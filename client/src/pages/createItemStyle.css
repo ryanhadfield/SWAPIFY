@@ -1,0 +1,18 @@
+
+
+
+div.input-field.col{
+ width:100%
+}
+
+Button{
+    font-family: lemon;
+}
+#mainFileBtn{
+    background-color: #f25d27 !important;
+  font-family: lemon;
+}
+
+.fullHeight {
+  height: 100vh !important;
+}

@@ -1,0 +1,40 @@
+#modalBtn {
+    background-color: #f25d27!important;
+    font-family: lemon!important;
+    border-radius: 10px!important;
+}
+
+.modal{
+    border-radius: 25px!important;
+    color: #025159;
+    background-color:#d3eee3!important;
+    font-weight: 700;
+    font-size: larger;
+}
+
+div.modal-footer{
+    background-color: #d3eee3!important;
+    color:white!important
+}
+
+h3{
+   color: #f28704!important;
+    font-family: lemon!important; 
+}
+
+button.waves-effect.waves-green.btn-flat.modal-close{
+    color: white;
+    border-radius: 10px!important;
+    background-color: #f25d27!important;
+}
+
+button.btn.modal-close{
+    background-color: #f25d27!important;
+    font-family: lemon!important;
+    border-radius: 10px!important;
+}
+
+.preloaderLocation {
+    margin: auto !important;
+    text-align: center !important;
+}

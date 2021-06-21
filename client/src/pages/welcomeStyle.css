@@ -1,0 +1,96 @@
+h1 {
+  font-family: lemon;
+  color: white;
+}
+
+h2 {
+  font-family: lemon;
+  color: #025159;
+}
+
+h4 {
+  font-family: lemon;
+  color: white;
+}
+/* .how1 {
+  color: #f28704;
+}
+.how2 {
+  color: #f25d27;
+}
+.how3 {
+  color: #da2624;
+}
+.how4 {
+  color: #352B88;
+} */
+
+.opening {
+  padding-top: 75px;
+}
+
+.loginBtn {
+  background-color: #f25d27 !important;
+  font-family: lemon;
+}
+
+.howTo {
+  margin-top: 200px;
+}
+
+.login {
+  margin-top: 150px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.downArrow {
+  margin-top: 350px;
+}
+
+.symbol1,
+.symbol2,
+.symbol3 {
+  margin-bottom: 20px;
+}
+
+/* body,
+html {
+  height: 100%;
+} */
+
+
+  .hero-image {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)),
+      url("/img/swap-bike-comp3.jpg");
+
+    /* Set a specific height */
+    /* height: 50%; */
+
+    /* Position and center the image to scale nicely on all screens */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+
+
+@media only screen and (max-width: 800px) {
+  .hero-image {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)),
+      url("/img/swap-bike-comp4.png");
+
+    /* Set a specific height  */
+    height: 50%!important;
+
+    /* Position and center the image to scale nicely on all screens */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+}
+
+.howToRow {
+  margin-bottom: 0px !important;
+}

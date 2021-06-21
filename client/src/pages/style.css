@@ -1,0 +1,35 @@
+.itemImage {
+    height: 300px;
+}
+
+
+/* body {
+    background-color: radial-gradient(white, #d3eee3, #d3eee3);
+    background-image: url("/img/waves.png"), radial-gradient(white, #d3eee3, #d3eee3);
+    background-size: cover;
+    background-position: center;
+    min-height: 500px;
+    } */
+
+
+
+    .main {
+        margin:100px    
+    }
+
+.swipBackground {
+    max-width: 500px;
+    border-radius: 10px;
+}
+
+.greenCheck {
+    height: 100px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+
+    display: block;
+    margin: auto; 
+}

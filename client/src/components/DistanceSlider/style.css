@@ -1,0 +1,17 @@
+.distanceSlider {
+    max-width: 500px;
+}
+
+.rc-slider-step {
+    background-color: #F25D27;
+    height: 7px;
+    border-radius: 10px;
+}
+
+.rc-slider-handle {
+    background-color: #025159;
+    height: 25px;
+    width: 25px;
+    position: relative;
+    top:-3px
+}
