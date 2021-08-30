@@ -123,6 +123,13 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ---
 ## Authors
 
+### Ryan Hadfield
+
+[Github](https://github.com/ryanhadfield) <br>
+Email: ryan.hadfield@gmail.com
+
+<br>
+
 ### Paul Vatterott
 
 [Github](https://github.com/pfvatterott) <br>
@@ -134,9 +141,3 @@ Email: pfvatterott@gmail.com
 [Github](https://github.com/khendersonPC) <br>
 Email: khenderson@pcschools.us
 
-<br>
-
-### Ryan Hadfield
-
-[Github](https://github.com/ryanhadfield) <br>
-Email: ryan.hadfield@gmail.com
